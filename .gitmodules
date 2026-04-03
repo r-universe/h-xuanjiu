@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "Nematode"]
 	path = Nematode
-	url = https://github.com/cran/Nematode
+	url = https://github.com/h-xuanjiu/nematode
