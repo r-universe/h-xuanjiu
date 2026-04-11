@@ -5,3 +5,6 @@
 [submodule "Nematode"]
 	path = Nematode
 	url = https://github.com/h-xuanjiu/nematode
+[submodule "ncmR"]
+	path = ncmR
+	url = https://github.com/h-xuanjiu/ncmr
